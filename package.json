@@ -1,10 +1,10 @@
 {
-  "name": "OverSee",
+  "name": "Multiverse Nodes",
   "version": "0.2.0",
-  "description": "OverSee is an open source panel for managing and operating game servers and applications built using Node.js with Express and Dockerode.",
-  "name": "OverSee",
+  "description": "This Is the Official Creation Of Multiverse Nodes performed by The owner Platinum!",
+  "name": "Multiverse Nodes",
   "version": "2.0",
-  "description": "Open-Source panel inside dashboard",
+  "description": "Welcome to Panel Page of Multiverse Nodes",
   "main": "index.js",
   "bin": {
     "OverSee": "./exec/bin/index.js"
@@ -18,9 +18,9 @@
     "createUser": "node exec/createUser.js",
     "build:css": "npx tailwindcss -i ./public/tw.conf -o ./public/assets/tailwind.css --watch"
   },
-  "author": "OverSeeLabs",
+  "author": "Itz_Platinum",
   "license": "ISC",
-  "author": "Hydren",
+  "author": "Platinum",
   "license": "MIT",
   "dependencies": {
     "@keyv/sqlite": "^3.6.7",
