@@ -1,6 +1,6 @@
-# Oversee-Fixed Dashboard
+# Multiverse Panel
 
-![Oversee Logo](https://raw.githubusercontent.com/hydren-dev/Oversee/refs/heads/main/oversee.webp)
+![Multiverse Logo](https://multiversetshirts.com/cdn/shop/files/home_banner.jpg?v=1736893670&width=3840)
 
 Oversee is a sleek and efficient dashboard designed for managing your resources with ease. While Discord login isn’t implemented yet, you can still enjoy a seamless experience managing your system.
 
@@ -28,4 +28,5 @@ git clone https://github.com/draco-labes/oversee-fixed.git && cd oversee-fixed &
 
 - Stay tuned for updates as Discord login is in progress.
 - Created with ❤️ by **ma4z**.
-- Edited ❤️ by **hopingboyz**
+- Edited ❤️ by **itz_platinum**
+- Credited To ❤️**Ken Ken Playz**
