@@ -11,7 +11,7 @@ async function loadChalk() {
 
 program
     .version("0.1.0-beta6")
-    .description("Command Line Interface for the OverSee Panel");
+    .description("Command Line Interface for the Multiverse Panel");
 
 program
     .command('seed')
