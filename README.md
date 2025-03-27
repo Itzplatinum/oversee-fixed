@@ -28,6 +28,6 @@ git clone https://github.com/draco-labes/oversee-fixed.git && cd oversee-fixed &
 
 - Stay tuned for updates as Discord login is in progress.
 - Created ❤️ by **ma4z**.
-- Coded ❤️ By Hoping Boy 
+- Coded ❤️ By **Hoping Boy**
 - Edited ❤️ by **itz_platinum**
 - Credited To ❤️**Ken Ken Playz**
